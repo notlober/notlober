@@ -1,7 +1,7 @@
 <h1 align="center">I am Baki</h1>
 <h3 align="center">Machine learning engineer & Prompt engineer</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/QS0KOjNRG0tfG/giphy.gif" alt="Matrix GIF" width="300"/>
+  <img src="https://media.giphy.com/media/QS0KOjNRG0tfG/giphy.gif" alt="Matrix GIF" width="900"/>
 </p><h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
