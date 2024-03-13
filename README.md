@@ -2,7 +2,7 @@
 
 To-Do List
 
-Implement Transformer
+Implement Transformer ✅
 
 Implement Flash Attention 2
 
