@@ -14,4 +14,4 @@ Implement Mixtral
 
 Implement Mamba
 
-Bonus: Implement Triton for TPUs (???)
+Bonus: Efficient rocm to cuda framework ???
