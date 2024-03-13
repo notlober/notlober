@@ -4,7 +4,7 @@ To-Do List
 
 Implement Transformer ✅
 
-Implement Flash Attention 2
+Implement Flash Attention 2 With Triton or CUDA
 
 Implement LLaMA2
 
