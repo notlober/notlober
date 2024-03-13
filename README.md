@@ -4,14 +4,10 @@ To-Do List
 
 Implement Transformer ✅
 
-Implement Flash Attention 2 With Triton or CUDA
+Implement Flash Attention 2 With CUDA
 
 Implement LLaMA2
 
 Implement Mistral
 
 Implement Mixtral
-
-Implement Mamba
-
-Bonus: Efficient rocm to cuda framework ???
